@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "485556980454",
+      "project_id": "authen-b96fc",
+      "storage_bucket": "authen-b96fc.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:485556980454:android:b250ac51ab4d4c9f170927",
+          "android_client_info": {
+            "package_name": "com.example.myapp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "485556980454-so70polshgg02psr425v4ka0g6l2n0bp.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCGrStP1kO8va1tM1SilZ65eLFCbUyjedY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "485556980454-so70polshgg02psr425v4ka0g6l2n0bp.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
